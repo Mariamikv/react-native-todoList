@@ -14,3 +14,4 @@ Application is made with react-native. In this simple application I learnt state
 ## Tools and Languages
 - react-native
 - expo app
+- JavaScript
